@@ -1,0 +1,13 @@
+.click,
+.dont-click {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.click {
+    background-color: rgb(7, 7, 7);
+    color: rgb(236, 231, 231);
+}
+.dont-click {
+    background-color: rgb(228, 228, 12);
+}

@@ -1,0 +1,17 @@
+.odd-numbers {
+   background-color: rgb(233, 120, 139);
+   font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+#even1 {
+    color: rgb(40, 40, 235);
+    font-size: 36px; 
+}
+.font-size {
+    font-size: 24px;
+}
+#even2 {
+    background-color: rgb(106, 235, 106);
+    font-weight: bold;
+    font-size: 24px;
+}
